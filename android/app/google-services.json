@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "905823425818",
+    "project_id": "anxietyapp-caeb6",
+    "storage_bucket": "anxietyapp-caeb6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905823425818:android:6447db574a5c074ce708a3",
+        "android_client_info": {
+          "package_name": "com.example.anxiety_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVwpRD_v8pRurwXr36q4yu1CCkcNQ3jvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
