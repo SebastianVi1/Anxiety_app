@@ -1,4 +1,4 @@
-import 'package:anxiety_app/view/login_screen.dart';
+import 'package:anxiety_app/view/log_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      home: LoginScreen(),
+      home: MyWidget(),
     );
   }
 }
